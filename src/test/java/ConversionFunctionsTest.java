@@ -16,8 +16,8 @@ public class ConversionFunctionsTest {
 
     // TODO: Write a test for a negative celsius that converts to a positive fahrenheit
     @Test
-    public void celsiusNegative1IsFahrenheit61() {
-        assertEquals(61, ConversionFunctions.celsiusToFahrenheit(-1));
+    public void celsiusNegative1IsFahrenheit30point2() {
+        assertEquals(30, ConversionFunctions.celsiusToFahrenheit(-1));
     }
 
     // TODO: Write a test for a negative celsius that converts to a negative fahrenheit
