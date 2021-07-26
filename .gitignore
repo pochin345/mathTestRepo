@@ -9,6 +9,9 @@ doc/
 out/
 *.iml
 
+# maven
+target/
+
 # Eclipse files
 bin/
 .metadata/
